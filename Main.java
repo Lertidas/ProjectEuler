@@ -3,7 +3,7 @@ public class Main {
         long startTime = System.currentTimeMillis();
 
         // Setup Problem class
-        Problem2 problem = new Problem2();
+        Problem3 problem = new Problem3();
         System.out.println(problem.solve());
 
         long endTime = System.currentTimeMillis();
